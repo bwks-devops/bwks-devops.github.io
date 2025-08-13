@@ -1,3 +1,5 @@
 # bwks-devops.github.io
----
-[Curriculum](https://raw.githubusercontent.com/blueworks-dev/cv/refs/heads/main/README.md)
+
+## Estevan Ramalho CV
+- [Português](assets/cv/CV_pt_br_Estevan_Ramalho_2024.pdf)
+- [English](assets/cv/CV_en_Estevan_Ramalho_2024.pdf)
